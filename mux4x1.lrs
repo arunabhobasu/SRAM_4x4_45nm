@@ -1,0 +1,35 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.35 07/29/2024 05:39 (sjfhw885) $
+sub-version 4.1_USR7_main, integ signature 2024-07-29-0506
+run on ece-lnx-05 at Tue Nov 25 20:17:34 2025
+
+Schematic                     | Layout                     | Status
+-------------------------------------------------------------------------------
+mux4x1 schematic my_lib       | mux4x1 layout my_lib       | matched        
+
+Schematic and Layout Match
+
+Schematic:
+  Library:my_lib
+  Cell   :mux4x1
+  View   :schematic
+
+Layout:
+  Library:my_lib
+  Cell   :mux4x1
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

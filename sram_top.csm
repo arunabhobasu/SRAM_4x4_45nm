@@ -1,0 +1,14 @@
+Schematic                      | Layout                      | Status
+-------------------------------------------------------------------------------
+bufif1 schematic my_lib        | bufif1 layout my_lib        | matched      
+write schematic my_lib         | write layout my_lib         | matched      
+sram_cell schematic my_lib     | sram_cell layout my_lib     | matched      
+inv1_3x schematic my_lib       | inv1_3x layout my_lib       | matched      
+inv1_9x schematic my_lib       | inv1_9x layout my_lib       | matched      
+sense_amp schematic my_lib     | sense_amp layout my_lib     | matched      
+mux4x1 schematic my_lib        | mux4x1 layout my_lib        | matched      
+dec2x4 schematic my_lib        | dec2x4 layout my_lib        | matched      
+precharge schematic my_lib     | precharge layout my_lib     | matched      
+sram_top schematic my_lib      | sram_top layout my_lib      | matched      
+
+Schematic and Layout Match

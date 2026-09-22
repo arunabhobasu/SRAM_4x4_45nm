@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'nand3 layout my_lib':
+  info: Assign pin label "A" at (0.3825, 0.4575) to layer `poly_conn'.
+  info: Assign pin label "B" at (0.6300, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "C" at (0.8725, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0300, 0.9050) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (1.0875, 0.4700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'nand3 layout my_lib':
+  info: Assign pin label "A" at (0.3825, 0.4575) to layer `poly_conn'.
+  info: Assign pin label "B" at (0.6300, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "C" at (0.8725, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0300, 0.9050) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (1.0875, 0.4700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

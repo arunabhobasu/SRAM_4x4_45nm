@@ -1,0 +1,14 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "precharge schematic my_lib" "precharge layout my_lib"
+N !BL !BL
+N BL BL
+N VDD VDD
+N EN EN
+I PM0 avD10_1
+I PM1 avD10_2
+

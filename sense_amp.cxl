@@ -1,0 +1,30 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "sense_amp schematic my_lib" "sense_amp layout my_lib"
+N net3 avC9
+N net2 avC8
+N net1 avC7
+N EN EN
+N BL BL
+N !BL !BL
+N Y Y
+N VDD VDD
+N GND GND
+I PM1 avD10_2
+I PM0 avD10_1
+I NM2 avD2_3
+I NM1 avD2_2
+I NM0 avD2_1
+I I3/PM0 avD10_3
+I I3/NM0 avD2_4
+

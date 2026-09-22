@@ -1,0 +1,27 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "sram_cell schematic my_lib" "sram_cell layout my_lib"
+N net1 avC7
+N !BL !BL
+N BL BL
+N WL WL
+N VDD VDD
+N GND GND
+N Q Q
+I NM3 avD2_4
+I NM2 avD2_1
+I NM1 avD2_3
+I NM0 avD2_2
+I PM1 avD10_2
+I PM0 avD10_1
+

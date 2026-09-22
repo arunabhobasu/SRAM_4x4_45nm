@@ -1,0 +1,29 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "bufif1 schematic my_lib" "bufif1 layout my_lib"
+N !en avC8
+N net3 avC9
+N EN EN
+N A A
+N VDD VDD
+N GND GND
+N Y Y
+I NM1 avD2_3
+I NM0 avD2_2
+I PM1 avD10_2
+I PM0 avD10_3
+I I6/NM0 avD2_1
+I I6/PM0 avD10_1
+I I5/NM0 avD2_4
+I I5/PM0 avD10_4
+

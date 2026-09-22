@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("my_lib" "sram_top" "schematic" "spectre")
+descriptionText = "None"

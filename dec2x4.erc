@@ -1,0 +1,36 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'dec2x4 layout my_lib':
+  info: Assign pin label "EN" at (0.0350, 0.1525) to layer `poly_conn'.
+  info: Assign pin label "B" at (0.0375, 0.3525) to layer `poly_conn'.
+  info: Assign pin label "A" at (0.0225, 2.1850) to layer `poly_conn'.
+  info: Assign pin label "Y3" at (9.0900, 0.9900) to layer `poly_conn'.
+  info: Assign pin label "Y2" at (9.0925, 1.1925) to layer `poly_conn'.
+  info: Assign pin label "Y1" at (9.0750, 1.4750) to layer `poly_conn'.
+  info: Assign pin label "Y0" at (9.0700, 2.3700) to layer `poly_conn'.
+  info: Floating label discarded:  "!B" at (1.0950, 0.9700).
+  info: Floating label discarded:  "!A" at (0.6200, 1.2050).
+  info: Assign pin label "GND" at (0.0425, 0.0400) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0450, 2.6175) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'dec2x4 layout my_lib':
+  info: Assign pin label "EN" at (0.0350, 0.1525) to layer `poly_conn'.
+  info: Assign pin label "B" at (0.0375, 0.3525) to layer `poly_conn'.
+  info: Assign pin label "A" at (0.0225, 2.1850) to layer `poly_conn'.
+  info: Assign pin label "Y3" at (9.0900, 0.9900) to layer `poly_conn'.
+  info: Assign pin label "Y2" at (9.0925, 1.1925) to layer `poly_conn'.
+  info: Assign pin label "Y1" at (9.0750, 1.4750) to layer `poly_conn'.
+  info: Assign pin label "Y0" at (9.0700, 2.3700) to layer `poly_conn'.
+  info: Floating label discarded:  "!B" at (1.0950, 0.9700).
+  info: Floating label discarded:  "!A" at (0.6200, 1.2050).
+  info: Assign pin label "GND" at (0.0425, 0.0400) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0450, 2.6175) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

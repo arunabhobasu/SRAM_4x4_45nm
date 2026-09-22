@@ -1,0 +1,5 @@
+"g45p1svt(MOS)" "g45p1svt(MOS)"
+"g45n1svt(MOS)" "g45n1svt(MOS)"
+"nand3 layout my_lib" "nand3 schematic my_lib" "g45n1svt(MOS)" "g45p1svt(MOS)"
+Devices filtered from layout
+"TIE"

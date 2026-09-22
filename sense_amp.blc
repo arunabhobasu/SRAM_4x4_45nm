@@ -1,0 +1,5 @@
+"g45p1svt(MOS)" "g45p1svt(MOS)"
+"g45n1svt(MOS)" "g45n1svt(MOS)"
+"sense_amp layout my_lib" "sense_amp schematic my_lib" "g45n1svt(MOS)" "g45p1svt(MOS)"
+Devices filtered from layout
+"TIE"

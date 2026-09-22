@@ -1,0 +1,5 @@
+Schematic                     | Layout                     | Status
+-------------------------------------------------------------------------------
+nand3 schematic my_lib        | nand3 layout my_lib        | matched        
+
+Schematic and Layout Match

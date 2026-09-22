@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'sram_cell layout my_lib':
+  info: Assign pin label "WL" at (0.0300, 0.1225) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, -0.0800) to layer `metal1_conn'.
+  info: Assign pin label "!BL" at (0.0325, 0.6975) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0375, 1.6025) to layer `metal1_conn'.
+  info: Assign pin label "Q" at (2.3125, 0.8750) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (2.7525, 0.6800) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'sram_cell layout my_lib':
+  info: Assign pin label "WL" at (0.0300, 0.1225) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, -0.0800) to layer `metal1_conn'.
+  info: Assign pin label "!BL" at (0.0325, 0.6975) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0375, 1.6025) to layer `metal1_conn'.
+  info: Assign pin label "Q" at (2.3125, 0.8750) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (2.7525, 0.6800) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

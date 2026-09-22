@@ -1,0 +1,11 @@
+!<alc> v1 23
+0   23    0 write layout my_lib
+0   22    0 sram_cell layout my_lib
+0   21    0 sense_amp layout my_lib
+0   20    0 precharge layout my_lib
+0   19    0 mux4x1 layout my_lib
+0   18    0 inv1_9x layout my_lib
+0   17    0 inv1_3x layout my_lib
+0   16    0 dec2x4 layout my_lib
+0   15    0 bufif1 layout my_lib
+0   24    0 sram_top layout my_lib

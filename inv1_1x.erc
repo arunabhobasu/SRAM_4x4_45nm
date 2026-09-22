@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'inv1_1x layout my_lib':
+  info: Assign pin label "A" at (0.0225, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "Y" at (0.8050, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0300, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0300, 0.8700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'inv1_1x layout my_lib':
+  info: Assign pin label "A" at (0.0225, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "Y" at (0.8050, 0.4525) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0300, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0300, 0.8700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

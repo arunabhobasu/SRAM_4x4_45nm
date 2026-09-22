@@ -1,0 +1,44 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.35 07/29/2024 05:39 (sjfhw885) $
+sub-version 4.1_USR7_main, integ signature 2024-07-29-0506
+run on ece-lnx-05 at Fri Nov 28 13:34:39 2025
+
+Schematic                      | Layout                      | Status
+-------------------------------------------------------------------------------
+bufif1 schematic my_lib        | bufif1 layout my_lib        | matched      
+write schematic my_lib         | write layout my_lib         | matched      
+sram_cell schematic my_lib     | sram_cell layout my_lib     | matched      
+inv1_3x schematic my_lib       | inv1_3x layout my_lib       | matched      
+inv1_9x schematic my_lib       | inv1_9x layout my_lib       | matched      
+sense_amp schematic my_lib     | sense_amp layout my_lib     | matched      
+mux4x1 schematic my_lib        | mux4x1 layout my_lib        | matched      
+dec2x4 schematic my_lib        | dec2x4 layout my_lib        | matched      
+precharge schematic my_lib     | precharge layout my_lib     | matched      
+sram_top schematic my_lib      | sram_top layout my_lib      | matched      
+
+Schematic and Layout Match
+
+Schematic:
+  Library:my_lib
+  Cell   :sram_top
+  View   :schematic
+
+Layout:
+  Library:my_lib
+  Cell   :sram_top
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

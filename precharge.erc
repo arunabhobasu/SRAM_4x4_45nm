@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'precharge layout my_lib':
+  info: Assign pin label "EN" at (0.0250, 0.5525) to layer `poly_conn'.
+  info: Assign pin label "!BL" at (0.0425, 0.0250) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0300, 0.6825) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (1.0750, 0.0250) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'precharge layout my_lib':
+  info: Assign pin label "EN" at (0.0250, 0.5525) to layer `poly_conn'.
+  info: Assign pin label "!BL" at (0.0425, 0.0250) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0300, 0.6825) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (1.0750, 0.0250) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

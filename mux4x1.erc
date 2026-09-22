@@ -1,0 +1,32 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'mux4x1 layout my_lib':
+  info: Assign pin label "S1" at (2.3200, 0.8050) to layer `poly_conn'.
+  info: Assign pin label "S0" at (2.3250, 2.2600) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0250, 0.6475) to layer `metal1_conn'.
+  info: Assign pin label "C" at (0.0375, 1.2875) to layer `metal1_conn'.
+  info: Assign pin label "D" at (0.0375, 1.4025) to layer `metal1_conn'.
+  info: Assign pin label "A" at (0.0350, 1.5725) to layer `metal1_conn'.
+  info: Assign pin label "B" at (0.0350, 1.6925) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0350, 2.3575) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (2.3175, 1.5800) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'mux4x1 layout my_lib':
+  info: Assign pin label "S1" at (2.3200, 0.8050) to layer `poly_conn'.
+  info: Assign pin label "S0" at (2.3250, 2.2600) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0250, 0.6475) to layer `metal1_conn'.
+  info: Assign pin label "C" at (0.0375, 1.2875) to layer `metal1_conn'.
+  info: Assign pin label "D" at (0.0375, 1.4025) to layer `metal1_conn'.
+  info: Assign pin label "A" at (0.0350, 1.5725) to layer `metal1_conn'.
+  info: Assign pin label "B" at (0.0350, 1.6925) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0350, 2.3575) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (2.3175, 1.5800) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

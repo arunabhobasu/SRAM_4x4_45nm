@@ -1,0 +1,3 @@
+#!/bin/sh -f
+/apps/cds/ASSURA41/tools.lnx86/assura/bin/assura /ecel/UFAD/kasey.hill/final_project/sram_top.rsf -cdslib /ecel/UFAD/kasey.hill/final_project/cds.lib -gui
+exit $?

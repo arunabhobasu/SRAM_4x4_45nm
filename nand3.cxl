@@ -1,0 +1,26 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "nand3 schematic my_lib" "nand3 layout my_lib"
+N Y Y
+N A A
+N B B
+N C C
+N VDD VDD
+N GND GND
+I NM2 avD2_3
+I NM1 avD2_2
+I NM0 avD2_1
+I PM2 avD10_3
+I PM1 avD10_2
+I PM0 avD10_1
+

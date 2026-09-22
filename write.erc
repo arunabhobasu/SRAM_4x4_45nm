@@ -1,0 +1,14 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'write layout my_lib':
+  info: Assign pin label "!BL" at (0.0225, -0.5475) to layer `poly_conn'.
+  info: Assign pin label "BL" at (0.0300, -0.2925) to layer `poly_conn'.
+  info: Assign pin label "WR" at (0.0275, -0.0850) to layer `poly_conn'.
+  info: Assign pin label "DIN" at (0.0250, 1.5450) to layer `poly_conn'.
+  info: Assign pin label "SEL" at (0.8725, 1.9925) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0325, -0.6550) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0425, 2.1050) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

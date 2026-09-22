@@ -1,0 +1,33 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "mux4x1 schematic my_lib" "mux4x1 layout my_lib"
+N net3 avC11
+N net2 avC10
+N A A
+N B B
+N C C
+N D D
+N S0 S0
+N S1 S1
+N VDD VDD
+N GND GND
+N Y Y
+I NM3 avD2_3
+I NM2 avD2_2
+I NM1 avD2_1
+I NM0 avD2_4
+I PM3 avD10_4
+I PM2 avD10_1
+I PM1 avD10_3
+I PM0 avD10_2
+

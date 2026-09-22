@@ -1,0 +1,24 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'bufif1 layout my_lib':
+  info: Assign pin label "A" at (0.0250, 0.1625) to layer `poly_conn'.
+  info: Assign pin label "EN" at (0.0275, 1.1675) to layer `poly_conn'.
+  info: Assign pin label "Y" at (2.2525, 0.6975) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0350, 1.2700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'bufif1 layout my_lib':
+  info: Assign pin label "A" at (0.0250, 0.1625) to layer `poly_conn'.
+  info: Assign pin label "EN" at (0.0275, 1.1675) to layer `poly_conn'.
+  info: Assign pin label "Y" at (2.2525, 0.6975) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0350, 1.2700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

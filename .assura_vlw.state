@@ -1,0 +1,33 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.35 07/29/24 05:07 (sjfhw885) $
+; sub-version 4.1_USR7_main
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; Assura VLW saved state
+;----------------------------------------------------------------------------
+
+vuiLayerListOrder  =  "Alphabetical"
+vuiLayerList  = '(
+		("L10595" 2507 "L10595 = geomNodeRelate( ndiff_conn psubstrate conn )" 0 17 t "y0 (drawing)" t)
+		("L12421" 2522 "L12421 = geomNodeRelate( pdiff_conn psubstrate conn )" 0 19 t "y1 (drawing)" t)
+		("L65219" 2513 "L65219 = geomNodeRelate( pdiff_conn nwell_conn conn )" 0 18 t "y2 (drawing)" t)
+		("Via1" 338 "Via1 = geomOr( Via1 )" 1 16 t "y3 (drawing)" t)
+		("cont_ndiff" 6191 "cont_ndiff = groupVias(  via(cont_ndiff) conn1(metal1_conn) conn2(npn_emit nd..." 1 14 t "y0 (drawing)" t)
+		("cont_pdiff" 6187 "cont_pdiff = groupVias(  via(cont_pdiff) conn1(metal1_conn) conn2(pdiff_conn) )" 1 12 t "y1 (drawing)" t)
+		("cont_poly" 6189 "cont_poly = groupVias(  via(cont_poly) conn1(metal1_conn) conn2(poly_conn) )" 1 13 t "y5 (drawing)" t)
+		("metal1_conn" 386 "metal1_conn = geomAndNot( Metal1 M1Resdum )" 0 5 t "y2 (drawing)" t)
+		("metal1_conn_pintext" 59 "metal1_conn_pintext = pinText( \"Metal1\" )" 0 0 t "y3 (drawing)" t)
+		("metal2_conn" 387 "metal2_conn = geomAndNot( Metal2 M2Resdum )" 0 6 t "y9 (drawing)" t)
+		("metal2_conn_pintext" 61 "metal2_conn_pintext = pinText( \"Metal2\" )" 0 1 t "y0 (drawing)" t)
+		("ndiff_conn" 405 "ndiff_conn = geomAndNot( ndiff Resdum )" 0 11 t "y4 (drawing)" t)
+		("ntap" 601 "ntap = geomAndNot( L74405 L28555 )" 0 4 t "y8 (drawing)" t)
+		("nwell_conn" 397 "nwell_conn = geomAndNot( Nwell ResWdum )" 0 7 t "y5 (drawing)" t)
+		("pdiff_conn" 401 "pdiff_conn = geomAndNot( pdiff Resdum )" 0 8 t "y6 (drawing)" t)
+		("poly_conn" 403 "poly_conn = geomAndNot( Poly Resdum )" 0 9 t "y7 (drawing)" t)
+		("poly_conn_pintext" 81 "poly_conn_pintext = pinText( \"Poly\" )" 0 3 t "y8 (drawing)" t)
+		("poly_conn_text" 80 "poly_conn_text = text( \"Poly\" type(\"drawing\") )" 0 2 t "y7 (drawing)" t)
+		("psubstrate" 857 "psubstrate = geomAndNot( L14174 L7495 )" 0 10 t "y8 (drawing)" t)
+		("ptap" 551 "ptap = geomAndNot( L61994 PNPdummy )" 0 15 t "y5 (drawing)" t)
+)

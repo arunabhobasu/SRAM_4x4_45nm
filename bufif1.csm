@@ -1,0 +1,5 @@
+Schematic                     | Layout                     | Status
+-------------------------------------------------------------------------------
+bufif1 schematic my_lib       | bufif1 layout my_lib       | matched        
+
+Schematic and Layout Match

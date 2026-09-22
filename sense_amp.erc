@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'sense_amp layout my_lib':
+  info: Assign pin label "EN" at (0.0275, 0.1525) to layer `poly_conn'.
+  info: Assign pin label "BL" at (0.0275, 0.2575) to layer `poly_conn'.
+  info: Assign pin label "!BL" at (0.0275, 0.3625) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0400, 1.4975) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (2.3075, 0.8625) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'sense_amp layout my_lib':
+  info: Assign pin label "EN" at (0.0275, 0.1525) to layer `poly_conn'.
+  info: Assign pin label "BL" at (0.0275, 0.2575) to layer `poly_conn'.
+  info: Assign pin label "!BL" at (0.0275, 0.3625) to layer `poly_conn'.
+  info: Assign pin label "GND" at (0.0375, 0.0350) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (0.0400, 1.4975) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (2.3075, 0.8625) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
